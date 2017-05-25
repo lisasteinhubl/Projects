@@ -1,0 +1,7 @@
+#Tue Nov 15 19:16:43 PST 2016
+base.0=/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_114994cd1b34231bdf2cf0c4d445e8d70500508d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed5c358e291087a5fdec0cb0f3e907d395200d0a/classes.dex
+base.1=/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed5c358e291087a5fdec0cb0f3e907d395200d0a
+file.0=/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_114994cd1b34231bdf2cf0c4d445e8d70500508d/classes.dex

@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/activity_maps">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton
+            android:id="@+id/Owner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textOn="Owner"
+            android:textOff="Owner"
+            android:onClick="onToggleButtonClicked"/>
+        <ToggleButton
+            android:id="@+id/Seeker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textOn="Seeker"
+            android:textOff="Seeker"
+            android:onClick="onToggleButtonClicked"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/TypeRadioGroup"
+        android:id="@+id/searchBar">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:hint="Enter address" />
+        <Button
+            android:id="@+id/filtersButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filters"/>
+
+        <Button
+            android:id="@+id/search_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onMapSearch"
+            android:text="Search"
+            android:backgroundTint="@android:color/holo_blue_light"/>
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/map"
+        class="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_below="@+id/searchBar"
+        tools:context="com.viralandroid.googlemapsandroidapi.MapsActivity" />
+
+    <Button
+        android:id="@+id/resultListButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/map"
+        android:text="Results as List"/>
+</LinearLayout>

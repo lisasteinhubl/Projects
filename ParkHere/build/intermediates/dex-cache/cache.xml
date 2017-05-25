@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_3db69710bdc9d7bf13a35436375a5b3af3f5f5f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_84f97412d1c975bbe2a7481f678a4ef8a1afc5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_8ff58016c1f23783fb8df5908177a2281d345aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fd330993163637a1e24a691157a32dede74da056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_2771f479c64f598ad9487bb988f62c0ee0647f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5945e94f239ec13d41da8261e65be3edc166d323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d84d10ff5eeb88611285afb0b875b5952cf28a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_29ea9acfe130f4ac16d4ad4f13f3da3c3ea95338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_a04511bfa3453d2c94bb133bca13cd839607ef32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_4dc9977c0c80c26d381b50ac6f7c5e873f5b0350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_da7412476ad510b3ddd5bd20ffbf54b38a9072b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_6e1fbb12e5a9758a5a461cb999eaad18166517dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_fe68028996f1866ed5277bf2650b359a7c121d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_4a0f13e984560b99d052d4744a748ff2405f5721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_9cf0194a8220776cba9dc403ab91179713865d43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_09df86a83fec6a135c8438dfbfbbcfc908c1ca19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_e9b832c9474a4a9902cdb7fb021ca1d971f20c71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_27cfd667b036bce9e0912b6de3d3e8392ece05a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_0c27f2e6d4545c32d9bfce17669df9f68f9adebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_c74be1441b943237b3ed32937433da7bfc45f1d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a077e50d7fde9a3dce1423f0c814cc7b4954fa2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_ac61b8e295ab5bee3f8a56e49272be6cb79a08e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_60a7c548df7b49b173443a2d3c92805330a44609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_35fe7ad0469e08f0d1f7d16ba50970b774f5a1ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_9ed38e51a627fdc1da5d230169ae2adccf4eaed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_cef6bcf1a61ff8a87804aa100fc727d8d505a499/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_1baacd0ecf06354bc28658363b87e8b7e678191c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_ba9842d27bcca157a8b27eb031d084599535d2d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_11afdf2e50ec76324f4b46d095a940b9fbd9ec4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_640932a61a5f98f794f8c1a3773c4698b04fbcc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d60b4391208d85ccc7eaea33ede356a84f64ca4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_dac5e15d3f3580a0ce418116a22351cf4f0dadd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_d739d2ff690b664584126e5f3888ebb72d74e263/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="39c7d5a3f35eeac7f68927b36fd3b41b8478d91a">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_114994cd1b34231bdf2cf0c4d445e8d70500508d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_f54a7c27669e5b7c2058c1bc25284de2c6c65e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_78fc9ac1d0ac95bd00d5e19baf1f5719bdf9059b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_859ed0293d205be96f924c7183ad34e194e0018b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_b28f226690a06ef7fcfc637c00cdff0b1743d867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7d09430e64473a6c775c0639c682dc1316437399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e0134c982c09555ae4db94b2ce61c0038ddd85b">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed5c358e291087a5fdec0cb0f3e907d395200d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_0b62a15b835e2b976095d6ad6783b99b7e771eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_3d94762c9bc3bc1b418a0aa6571a18dc5e4a7b5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_83131b6e16cdff8d63ef27cbf03f3319c8b70661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_67354fe4172eebd0a5b7ca8063104e38a1c5bdd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_6952038c50356e5ea81e9c66ed0e8e8a8c0ffe9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_ed77813d5d08f8c2681f51f37fb43cb349216fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_68db7edeb98078b72eca28d5f312b48b5cf1c62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_fa6965359227f77fb3a63730710710e321c35857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_5eb839fc5d87e7d0f47e57803c17a4bf66d9c00d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0c62d4339b1455c833ff6fa3b6f404d95f11c05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_dab77885107a1bf0d0ab52df46fb737ecf58fd6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_082dd506bf8010f14a67814f6d51ad06309f0b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_ee821482d88246b693bd233192902cb2274e2544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_db507ff7f5910e961c3e51d5f8646d4a69678fe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_300d77dd6301a14a78c5f35a5d5db6051c1571f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e57fe85638fd1af24e01b76f42f407d21255166e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_162874907a89e34cb60315a82e162492a8230fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_c396cc488ce5e40254c8f52816cab4d446b58575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_06530fa81e7ee271f1892c910561dcba4b1f39ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_8cda56bbd2488c0855e014d228093327c33d2b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9e5885ef57a5e65f3a8e8e5818ab25ff18c860ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_6cf11b169e2e61ae111ef339e4c443b252ba5b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_7a7431f876e13a9d660960764ce16a4fbe066942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_d58f8c1471057ae0d974a0aea530803025a98244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_b601dc6d01bcf40e6a5a44f258dabca537db718e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_db8887bd9ca2e3e9ba2b637cc6b55dbe6a7f4ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6d6ba95b58366688a065c013f47752c92ab6ff9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_6b2d49d299e6c6b41c7181bb275eda4daf318947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_0817818b89d00bc24ed51b6100364504edb17d95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_8da594a57d9ff62930fc8e5ac7c4f9b38582d30f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_8aedf36ca23c65b1bc79a1217833d37ddfed9e5a/classes.dex" />
+    </item>
+
+</items>

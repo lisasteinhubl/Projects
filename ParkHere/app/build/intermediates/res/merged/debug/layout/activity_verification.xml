@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_verification"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.pfp.parkhere.VerificationActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+            <TextView
+                android:id="@+id/uploadIDTextView"
+                android:text="Upload Photo ID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:fontFamily="sans-serif"
+                android:textSize="30sp"
+                android:textAlignment="center"
+                android:layout_alignParentStart="true"/>
+
+            <Button
+                android:text="Choose from Gallery..."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/uploadPictureButton"
+                android:textStyle="normal|bold"
+                android:textAlignment="center"
+                android:visibility="visible"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/uploadIDTextView"
+                style="@android:style/Widget.Holo.Button" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

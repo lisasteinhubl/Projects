@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205570712410",
+    "firebase_url": "https://pfp-parkhere.firebaseio.com",
+    "project_id": "pfp-parkhere",
+    "storage_bucket": "pfp-parkhere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205570712410:android:f03b52bb1da5251d",
+        "android_client_info": {
+          "package_name": "com.pfp.parkhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205570712410-5jprg1nqv3rh4qo3kt2qifrgf6u25iib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pfp.parkhere",
+            "certificate_hash": "78415D4BDAF82D69323CFA7759B0B5F58936A957"
+          }
+        },
+        {
+          "client_id": "205570712410-k1s3r8fq48f647u8611cben7rakvass4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fRuZ_YkDgL2E51kLand17GEHYBnUoF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205570712410-k1s3r8fq48f647u8611cben7rakvass4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

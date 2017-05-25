@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/tianlinz/Desktop/CS310_PFP_NEW/ParkHere/app/src/main/res/xml/pref_general.xml"
+    }
+]
