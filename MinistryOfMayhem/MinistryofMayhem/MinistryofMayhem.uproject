@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+  "Modules": [
+    {
+      "Name": "MinistryofMayhem",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "AIModule",
+        "Engine"
+      ]
+    }
+  ]
+	
+}
