@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/activity_maps">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ProtectivePark"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textSize="35dp"/>
+
+
+    <LinearLayout
+        android:id="@+id/searchBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:hint="@string/SearchAddress" />
+
+        <Button
+            android:id="@+id/searchButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:onClick="onMapSearch"
+            android:text="@string/Search" />
+    </LinearLayout>
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_marginTop="10dp"
+    android:layout_width="400dp"
+    android:layout_height="300dp"
+    tools:context="itp341.steinhubl.lisa.protectivepark.MapsActivity" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/returnToSpotButton"
+        android:text="@string/returnToSpot"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffffff"
+        android:layout_marginTop="40dp"
+        android:clickable="false"
+        android:enabled="false"
+        android:visibility="invisible"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:typeface="serif"
+        android:textSize="20dp"
+        android:visibility="invisible"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/timeToCar"
+        android:text="@string/timeLeft"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/StopTimer"
+            android:background="@color/colorPrimary"
+            android:visibility="invisible"
+
+            android:textColor="#ffffffff"
+            android:id="@+id/stopTimerButton"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/alertContactButton"
+            android:background="@color/colorPrimary"
+            android:textColor="#ffffffff"
+            android:layout_marginLeft="20dp"
+            android:visibility="invisible"
+            android:text="@string/TextContact"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

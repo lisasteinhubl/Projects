@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69894585597",
+    "firebase_url": "https://protectivepark.firebaseio.com",
+    "project_id": "protectivepark",
+    "storage_bucket": "protectivepark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69894585597:android:6f823afe9769201a",
+        "android_client_info": {
+          "package_name": "itp341.steinhubl.lisa.protectivepark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69894585597-k6j5otnrvum0irs3knphf3i8udob9jve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itp341.steinhubl.lisa.protectivepark",
+            "certificate_hash": "f51c4c3e3191907b35e223c3d81083bf7398bdc1"
+          }
+        },
+        {
+          "client_id": "69894585597-6ob1dtfr1ugq7tgovn3mj2qenl2mb7i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByYgUTy3h8M9AyrR0jUBSJJ3LWg5JthFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69894585597-6ob1dtfr1ugq7tgovn3mj2qenl2mb7i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

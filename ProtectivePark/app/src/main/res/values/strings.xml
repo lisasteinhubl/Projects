@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProtectivePark</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ProtectivePark">ProtectivePark</string>
+    <string name="addSpot">Add Spot</string>
+    <string name="returnToSpot">Return To Spot</string>
+    <string name="timeLeft">Time Left To Car</string>
+    <string name="LoginFacebook">Login With Facebook</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Password">Password</string>
+    <string name="Save">Save</string>
+    <string name="Logout">Log Out</string>
+    <string name="NewSpot">New Spot</string>
+    <string name="GarageLevel">Garage Level</string>
+    <string name="SpotNumber">Spot Number</string>
+    <string name="PasswordShort">Password Too Short</string>
+    <string name="AuthFailed">Authentication Failed</string>
+    <string name="facebook_app_id">1073883812745000</string>
+    <string name="fb_login_protocol_scheme">fb1073883812745000</string>
+    <string name="SearchAddress">Search Address</string>
+    <string name="Search">Search</string>
+    <string name="Dismiss">Dismiss</string>
+    <string name="TimeToCar">Time to Car</string>
+    <string name="TextContact">Alert Contact</string>
+    <string name="StopTimer">Stop Timer</string>
+    <string name="LeaveBlank">Leave Blank if N/A</string>
+    <string name="Cancel">Cancel</string>
+    <string name="AddContact">Add Emergency Contact</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="ContactName">Name</string>
+    <string name="EmergencyMessage">" might be in danger, please try and contact them. "</string>
+    <string name="TheyAreAtSpot">" They are at spot number "</string>
+    <string name="TheyAreOnLevel">" They are on level "</string>
+    <string name="AtLong">" They are at longitude: "</string>
+    <string name="AndLat">" and latitude: "</string>
+
+</resources>
